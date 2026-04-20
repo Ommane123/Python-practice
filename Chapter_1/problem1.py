@@ -1,0 +1,5 @@
+print("Write twinckle - twinckle little star poem")
+
+print(''''WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x000001DBB05302D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/flask/
+WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x000001DBB0530410>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/flask/
+WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x000001DBB0530550>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/flask/''')
