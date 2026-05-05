@@ -12,7 +12,13 @@ class calculator:
         print(f"The square_root is {self.n**0.5}")          # ** is gives us the square root of a number
         print(f"The square_root is {self.n*0.5}")           # * is gives us the half of a number
 
+    @staticmethod
+    def hello():
+        print("Hello World")
+
+
 a = calculator(25)
 a.square()
 a.cube()
 a.square_root()
+a.hello()
