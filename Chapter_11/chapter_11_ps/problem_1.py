@@ -22,4 +22,3 @@ b = ThreeDVector(1,2,3)
 b.show()
 
 
-#7.52
