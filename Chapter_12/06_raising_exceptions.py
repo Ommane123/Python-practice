@@ -6,5 +6,3 @@ if(b == 0):
 else:
     print(f"the devision a/b is {a/b}")
 
-
-# 8:32
